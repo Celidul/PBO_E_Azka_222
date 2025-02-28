@@ -36,8 +36,8 @@ public class Main {
             String nama = scanner.nextLine();
             System.out.print("Masukkan NIM: ");
             String nim = scanner.nextLine();
-            String validnama ="Habibi";
-            String validnim ="180";
+            String validnama ="Azka";
+            String validnim ="222";
 
             if (nama.equals(namaMahasiswa) && nim.equals(nimMahasiswa)) {
                 System.out.println("Login Mahasiswa berhasil!");
